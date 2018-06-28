@@ -1,0 +1,797 @@
+,zipcode,primary_city,acceptable_cities,unacceptable_cities,county,latitude,longitude
+16164,37010,adams,,,montgomery,36.58,-87.06
+16165,37011,antioch,,,davidson,36.04,-86.64
+16166,37012,alexandria,,,dekalb,36.07,-86.03
+16167,37013,antioch,Cane Ridge,,davidson,36.04,-86.64
+16168,37014,arrington,,Triune,williamson,35.88,-86.63
+16169,37015,ashland_city,,,cheatham,36.27,-87.05
+16170,37016,auburntown,,,cannon,35.94,-86.09
+16171,37018,beechgrove,,,coffee,35.64,-86.2
+16172,37019,belfast,,,marshall,35.4,-86.71
+16173,37020,bell_buckle,,,bedford,35.59,-86.35
+16174,37022,bethpage,Rock Bridge,,sumner,36.5,-86.3
+16175,37023,big_rock,,,stewart,36.59,-87.78
+16176,37024,brentwood,,,williamson,35.99,-86.78
+16177,37025,bon_aqua,,,hickman,35.94,-87.34
+16178,37026,bradyville,,,cannon,35.69,-86.1
+16179,37027,brentwood,,Forest Hills,williamson,35.99,-86.78
+16180,37028,bumpus_mills,,,stewart,36.62,-87.85
+16181,37029,burns,,,dickson,36.05,-87.31
+16182,37030,carthage,"Defeated, So Carthage, South Carthage",Mc Clures Bend,smith,36.25,-85.94
+16183,37031,castalian_springs,Castalin Spgs,Castalian Spg,sumner,36.38,-86.31
+16184,37032,cedar_hill,,,robertson,36.55,-87.0
+16185,37033,centerville,Pleasantville,"Aetna, Coble, Fairfield, Grinders, Shipps Bend",hickman,35.79,-87.44
+16186,37034,chapel_hill,,,marshall,35.62,-86.69
+16187,37035,chapmansboro,,,cheatham,36.37,-87.11
+16188,37036,charlotte,,,dickson,36.18,-87.34
+16189,37037,christiana,,,rutherford,35.7,-86.34
+16190,37040,clarksville,,,montgomery,36.56,-87.34
+16191,37041,clarksville,,,montgomery,36.56,-87.34
+16192,37042,clarksville,,Sango,montgomery,36.57,-87.42
+16193,37043,clarksville,,"Fredonia, Hickory Point, Hilldale",montgomery,36.49,-87.24
+16194,37044,clarksville,,Austin Peay St Univ,montgomery,36.56,-87.34
+16195,37046,college_grove,,"Allisona, Bethesda",williamson,35.77,-86.74
+16196,37047,cornersville,,,marshall,35.35,-86.84
+16197,37048,cottontown,Walnut Grove,,sumner,36.48,-86.59
+16198,37049,cross_plains,,,robertson,36.54,-86.68
+16199,37050,cumberland_city,Cumberlnd Cty,,stewart,36.38,-87.64
+16200,37051,cumberland_furnace,Cmbrlnd Frnce,,dickson,36.3,-87.4
+16201,37052,cunningham,,,montgomery,36.37,-87.43
+16202,37055,dickson,,,dickson,36.07,-87.37
+16203,37056,dickson,,,dickson,36.07,-87.37
+16204,37057,dixon_springs,,,smith,36.4,-86.04
+16205,37058,dover,,Fort Donelson National Milit,stewart,36.48,-87.84
+16206,37059,dowelltown,,,dekalb,36.01,-85.94
+16207,37060,eagleville,,,rutherford,35.74,-86.65
+16208,37061,erin,,,houston,36.31,-87.7
+16209,37062,fairview,,,williamson,35.97,-87.12
+16210,37063,fosterville,,,rutherford,35.65,-86.4
+16211,37064,franklin,,"Kingfield, Peytonsville, Rudderville",williamson,35.88,-86.95
+16212,37065,franklin,,,williamson,35.92,-86.84
+16213,37066,gallatin,,,sumner,36.37,-86.45
+16214,37067,franklin,,,williamson,35.92,-86.84
+16215,37068,franklin,,,williamson,35.92,-86.84
+16216,37069,franklin,,,williamson,35.99,-86.9
+16217,37070,goodlettsville,Goodlettsvlle,"Goodlettsvl, Goodlettsvle",davidson,36.33,-86.7
+16218,37071,gladeville,,,wilson,36.08,-86.4
+16219,37072,goodlettsville,Goodlettsvlle,Millersville,davidson,36.33,-86.7
+16220,37073,greenbrier,,,robertson,36.42,-86.8
+16221,37074,hartsville,,,trousdale,36.39,-86.15
+16222,37075,hendersonville,Hendersonvlle,,sumner,36.29,-86.6
+16223,37076,hermitage,,,davidson,36.13,-86.58
+16224,37077,hendersonville,Hendersonvlle,,sumner,36.29,-86.6
+16225,37078,hurricane_mills,Hurricne Mlls,,humphreys,35.94,-87.76
+16226,37079,indian_mound,,,stewart,36.47,-87.66
+16227,37080,joelton,,,davidson,36.33,-86.91
+16228,37082,kingston_springs,Kingston Spgs,,cheatham,36.09,-87.1
+16229,37083,lafayette,,La Fayette,macon,36.52,-86.03
+16230,37085,lascassas,,,rutherford,35.94,-86.29
+16231,37086,la_vergne,,,rutherford,35.99,-86.57
+16232,37087,lebanon,,,wilson,36.2,-86.32
+16233,37088,lebanon,,,wilson,36.2,-86.32
+16234,37089,la_vergne,,Ingram Entertainment Group,rutherford,35.99,-86.57
+16235,37090,lebanon,,,wilson,36.11,-86.3
+16236,37091,lewisburg,,,marshall,35.44,-86.78
+16237,37095,liberty,Gassaway,,dekalb,36.0,-85.98
+16238,37096,linden,Flatwoods,,perry,35.61,-87.84
+16239,37097,lobelville,,,perry,35.75,-87.79
+16240,37098,lyles,Wrigley,,hickman,35.87,-87.32
+16241,37101,mc_ewen,,Mcewen,humphreys,36.1,-87.63
+16242,37110,mcminnville,"Centertown, Mc Minnville",,warren,35.68,-85.77
+16243,37111,mcminnville,Mc Minnville,"Mc Minnvl, Mc Minnvle",warren,35.68,-85.77
+16244,37115,madison,,,davidson,36.25,-86.69
+16245,37116,madison,,,davidson,36.25,-86.69
+16246,37118,milton,,,rutherford,35.92,-86.17
+16247,37119,mitchellville,,,sumner,36.63,-86.53
+16248,37121,mount_juliet,,Mt Juliet,wilson,36.2,-86.52
+16249,37122,mount_juliet,,,wilson,36.2,-86.52
+16250,37127,murfreesboro,,"Mboro, Murfreesbr",rutherford,35.78,-86.33
+16251,37128,murfreesboro,,"Mboro, Murfreesbr",rutherford,35.78,-86.49
+16252,37129,murfreesboro,,"Mboro, Murfreesbr",rutherford,35.93,-86.44
+16253,37130,murfreesboro,,"Mboro, Murfreesbr",rutherford,35.85,-86.39
+16254,37131,murfreesboro,,"Mboro, Murfreesbr, State Farm Ins Co",rutherford,35.85,-86.39
+16255,37132,murfreesboro,,"Mboro, Middle Tenn State Univ, Murfreesbr",rutherford,35.85,-86.36
+16256,37133,murfreesboro,,"Mboro, Murfreesbr",rutherford,35.85,-86.39
+16257,37134,new_johnsonville,"Denver, New Johsonvle",,humphreys,36.01,-87.95
+16258,37135,nolensville,,,williamson,35.94,-86.64
+16259,37136,norene,,,wilson,36.11,-86.29
+16260,37137,nunnelly,,,hickman,35.89,-87.52
+16261,37138,old_hickory,Lakewood,,davidson,36.22,-86.61
+16262,37140,only,,,hickman,35.87,-87.65
+16263,37141,orlinda,,,robertson,36.6,-86.67
+16264,37142,palmyra,,,montgomery,36.41,-87.5
+16265,37143,pegram,,,cheatham,36.1,-87.05
+16266,37144,petersburg,,,lincoln,35.31,-86.63
+16267,37145,pleasant_shade,Pleasant Shde,,smith,36.38,-85.91
+16268,37146,pleasant_view,,,cheatham,36.37,-87.04
+16269,37148,portland,,,sumner,36.58,-86.51
+16270,37149,readyville,,,cannon,35.8,-86.19
+16271,37150,red_boiling_springs,Red Blng Spgs,,macon,36.53,-85.85
+16272,37151,riddleton,,,smith,36.34,-86.03
+16273,37152,ridgetop,,,robertson,36.39,-86.77
+16274,37153,rockvale,,,rutherford,35.75,-86.55
+16275,37160,shelbyville,Royal,,bedford,35.49,-86.44
+16276,37161,shelbyville,,National Pen Company,bedford,35.49,-86.44
+16277,37162,shelbyville,,,bedford,35.49,-86.44
+16278,37165,slayden,,,dickson,36.29,-87.47
+16279,37166,smithville,,,dekalb,35.95,-85.82
+16280,37167,smyrna,,,rutherford,35.98,-86.51
+16281,37171,southside,,,montgomery,36.36,-87.3
+16282,37172,springfield,,,robertson,36.49,-86.87
+16283,37174,spring_hill,,,williamson,35.74,-86.92
+16284,37175,stewart,,,houston,36.32,-87.89
+16285,37178,tennessee_ridge,Tennessee Rdg,"Tenn Ridge, Tn Ridge",houston,36.31,-87.76
+16286,37179,thompsons_station,Thompsons Stn,,williamson,35.82,-87.01
+16287,37180,unionville,,,bedford,35.62,-86.59
+16288,37181,vanleer,,,dickson,36.23,-87.44
+16289,37183,wartrace,,,bedford,35.52,-86.33
+16290,37184,watertown,,,wilson,36.09,-86.13
+16291,37185,waverly,,,humphreys,36.09,-87.78
+16292,37186,westmoreland,,,sumner,36.56,-86.24
+16293,37187,white_bluff,,,dickson,36.1,-87.21
+16294,37188,white_house,,,robertson,36.46,-86.66
+16295,37189,whites_creek,,,davidson,36.28,-86.83
+16296,37190,woodbury,,,cannon,35.82,-86.07
+16297,37191,woodlawn,,,montgomery,36.5,-87.54
+16298,37201,nashville,,,davidson,36.17,-86.78
+16299,37202,nashville,,,davidson,36.17,-86.78
+16300,37203,nashville,,,davidson,36.15,-86.79
+16301,37204,nashville,"Berry Hill, Melrose",,davidson,36.11,-86.77
+16302,37205,nashville,,,davidson,36.11,-86.87
+16303,37206,nashville,,,davidson,36.18,-86.73
+16304,37207,nashville,,Northeast,davidson,36.23,-86.78
+16305,37208,nashville,,,davidson,36.18,-86.81
+16306,37209,nashville,,,davidson,36.19,-86.95
+16307,37210,nashville,,,davidson,36.15,-86.73
+16308,37211,nashville,,Woodbine,davidson,36.07,-86.72
+16309,37212,nashville,,,davidson,36.13,-86.8
+16310,37213,nashville,,,davidson,36.17,-86.77
+16311,37214,nashville,,Donelson,davidson,36.16,-86.67
+16312,37215,nashville,Forest Hills,,davidson,36.08,-86.83
+16313,37216,nashville,,Jere Baxter,davidson,36.22,-86.73
+16314,37217,nashville,,,davidson,36.11,-86.66
+16315,37218,nashville,,,davidson,36.16,-86.89
+16316,37219,nashville,,Nashvle,davidson,36.17,-86.78
+16317,37220,nashville,Oak Hill,"Forest Hills, Melrose",davidson,36.07,-86.79
+16318,37221,nashville,Bellevue,,davidson,36.05,-86.97
+16319,37222,nashville,,,davidson,36.17,-86.78
+16320,37224,nashville,,"Nashvl, Nashvle",davidson,36.17,-86.78
+16321,37227,nashville,,"Nashvl, Nashvle",davidson,36.17,-86.78
+16322,37228,nashville,,,davidson,36.2,-86.8
+16323,37229,nashville,,,davidson,36.17,-86.78
+16324,37230,nashville,,,davidson,36.17,-86.78
+16325,37232,nashville,,Vanderbilt Hospital,davidson,36.17,-86.78
+16326,37234,nashville,,Lifeway Christian Resources,davidson,36.17,-86.78
+16327,37235,nashville,,Vanderbilt University Sta B,davidson,36.17,-86.78
+16328,37236,nashville,,Baptist Hospital,davidson,36.17,-86.78
+16329,37237,nashville,,Amsouth Bank,davidson,36.16,-86.78
+16330,37238,nashville,,,davidson,36.17,-86.78
+16331,37240,nashville,,Vanderbilt University,davidson,36.14,-86.81
+16332,37241,nashville,,Regions Bank,davidson,36.17,-86.78
+16333,37242,nashville,,Tn Dept Of Revenue,davidson,36.17,-86.78
+16334,37243,nashville,,"Nashvl, Nashvle, State Postal",davidson,36.17,-86.78
+16335,37244,nashville,,,davidson,36.17,-86.78
+16336,37245,nashville,"Nashvl, Nashvle, Tn Dept Of Employment Sec",,davidson,36.16,-86.78
+16337,37246,nashville,,Nashville Elec Serv,davidson,36.16,-86.79
+16338,37247,nashville,"Tn Dept Of Health Environ, Nashvl, Nashvle",,davidson,36.16,-86.78
+16339,37248,nashville,"Tn Dept Of Human Svc, Nashvle, Nashvl",,davidson,36.16,-86.78
+16340,37249,nashville,"Nashvl, Nashvle, Tn Dept Of Safety",,davidson,36.16,-86.78
+16341,37250,nashville,,"American General, Suntrust Bank",davidson,36.17,-86.78
+16342,37301,altamont,,,grundy,35.42,-85.72
+16343,37302,apison,,,hamilton,35.01,-85.0
+16344,37303,athens,,,mcminn,35.45,-84.6
+16345,37304,bakewell,Sale Creek,,hamilton,35.39,-85.11
+16346,37305,beersheba_springs,Beershba Spgs,,grundy,35.45,-85.67
+16347,37306,belvidere,,,franklin,35.12,-86.18
+16348,37307,benton,,,polk,35.17,-84.65
+16349,37308,birchwood,,,hamilton,35.36,-84.99
+16350,37309,calhoun,,,mcminn,35.29,-84.74
+16351,37310,charleston,,,bradley,35.28,-84.76
+16352,37311,cleveland,,Cleveld,bradley,35.17,-84.86
+16353,37312,cleveland,,Cleveld,bradley,35.23,-84.88
+16354,37313,coalmont,,,grundy,35.33,-85.71
+16355,37314,coker_creek,,,monroe,35.26,-84.3
+16356,37315,collegedale,,,hamilton,35.05,-85.05
+16357,37316,conasauga,,Old Fort,polk,35.0,-84.73
+16358,37317,copperhill,Postelle,,polk,34.99,-84.37
+16359,37318,cowan,,,franklin,35.16,-86.01
+16360,37320,cleveland,,Cleveld,bradley,35.17,-84.86
+16361,37321,dayton,,,rhea,35.49,-85.01
+16362,37322,decatur,,,meigs,35.52,-84.79
+16363,37323,cleveland,,"Cleveld, Clevelnd",bradley,35.1,-84.82
+16364,37324,decherd,,,franklin,35.2,-86.08
+16365,37325,delano,,,polk,35.25,-84.62
+16366,37326,ducktown,,,polk,35.03,-84.38
+16367,37327,dunlap,,,sequatchie,35.37,-85.38
+16368,37328,elora,,,lincoln,35.01,-86.35
+16369,37329,englewood,,,mcminn,35.42,-84.48
+16370,37330,estill_springs,Estill Spgs,,franklin,35.26,-86.13
+16371,37331,etowah,,,mcminn,35.33,-84.52
+16372,37332,evensville,,,rhea,35.56,-84.95
+16373,37333,farner,,,polk,35.14,-84.32
+16374,37334,fayetteville,,,lincoln,35.14,-86.56
+16375,37335,flintville,,,lincoln,35.04,-86.45
+16376,37336,georgetown,,,bradley,35.3,-84.91
+16377,37337,grandview,,"Grand View, Spring City",rhea,35.74,-84.83
+16378,37338,graysville,,,rhea,35.43,-85.22
+16379,37339,gruetli_laager,Gruetli Laagr,"Gruetli, Laager",grundy,35.38,-85.63
+16380,37340,guild,,,marion,35.03,-85.52
+16381,37341,harrison,,,hamilton,35.12,-85.14
+16382,37342,hillsboro,,,coffee,35.36,-85.95
+16383,37343,hixson,,,hamilton,35.16,-85.2
+16384,37345,huntland,,,franklin,35.05,-86.26
+16385,37347,jasper,Kimball,,marion,35.05,-85.62
+16386,37348,kelso,,,lincoln,35.12,-86.46
+16387,37349,manchester,,,coffee,35.46,-86.08
+16388,37350,lookout_mountain,Lookout Mtn,,hamilton,34.99,-85.35
+16389,37351,lupton_city,,,hamilton,35.1,-85.26
+16390,37352,lynchburg,,,moore,35.28,-86.35
+16391,37353,mc_donald,,,bradley,35.08,-84.98
+16392,37354,madisonville,,,monroe,35.52,-84.35
+16393,37355,manchester,,,coffee,35.46,-86.08
+16394,37356,monteagle,,,grundy,35.24,-85.84
+16395,37357,morrison,,,warren,35.6,-85.91
+16396,37359,mulberry,,,lincoln,35.2,-86.41
+16397,37360,normandy,,,coffee,35.45,-86.25
+16398,37361,ocoee,,,polk,35.1,-84.7
+16399,37362,old_fort,,,polk,35.04,-84.64
+16400,37363,ooltewah,College Dale,,hamilton,35.06,-85.09
+16401,37364,cleveland,,,bradley,35.17,-84.86
+16402,37365,palmer,,,grundy,35.35,-85.56
+16403,37366,pelham,,,grundy,35.32,-85.78
+16404,37367,pikeville,,,bledsoe,35.6,-85.19
+16405,37369,reliance,,,polk,35.18,-84.56
+16406,37370,riceville,,,mcminn,35.38,-84.69
+16407,37371,athens,,,mcminn,35.45,-84.6
+16408,37373,sale_creek,Bakewell,,hamilton,35.38,-85.1
+16409,37374,sequatchie,,,marion,35.19,-85.66
+16410,37375,sewanee,Saint Andrews,,franklin,35.2,-85.92
+16411,37376,sherwood,,,franklin,35.06,-85.95
+16412,37377,signal_mountain,"Signal Mtn, Walden",,hamilton,35.13,-85.34
+16413,37378,smartt,,,warren,35.63,-85.84
+16414,37379,soddy_daisy,Lakesite,Soddy-daisy,hamilton,35.26,-85.17
+16415,37380,south_pittsburg,"New Hope, Orme, S Pittsburg",,marion,35.01,-85.71
+16416,37381,spring_city,Watts Bar Dam,,rhea,35.68,-84.86
+16417,37382,summitville,,,coffee,35.54,-85.97
+16418,37383,sewanee,,University Of The South,franklin,35.2,-85.92
+16419,37384,soddy_daisy,,,hamilton,35.26,-85.17
+16420,37385,tellico_plains,Tellico Plns,,monroe,35.36,-84.29
+16421,37387,tracy_city,,,grundy,35.25,-85.75
+16422,37388,tullahoma,Dickel,,coffee,35.37,-86.2
+16423,37389,arnold_afb,Tullahoma,Arnold Air Force Base,coffee,35.37,-86.14
+16424,37391,turtletown,,,polk,35.12,-84.35
+16425,37394,viola,,,warren,35.54,-85.86
+16426,37396,whiteside,,,marion,35.01,-85.5
+16427,37397,whitwell,"Powells Crossroads, Powells Crsrd",,marion,35.2,-85.51
+16428,37398,winchester,,,franklin,35.18,-86.1
+16429,37401,chattanooga,,,hamilton,35.06,-85.25
+16430,37402,chattanooga,,,hamilton,35.04,-85.32
+16431,37403,chattanooga,,,hamilton,35.05,-85.29
+16432,37404,chattanooga,,,hamilton,35.03,-85.27
+16433,37405,chattanooga,,,hamilton,35.12,-85.41
+16434,37406,chattanooga,,,hamilton,35.06,-85.25
+16435,37407,chattanooga,,,hamilton,35.0,-85.29
+16436,37408,chattanooga,,,hamilton,35.03,-85.31
+16437,37409,chattanooga,,,hamilton,35.01,-85.34
+16438,37410,chattanooga,,,hamilton,35.0,-85.31
+16439,37411,chattanooga,Ridgeside,,hamilton,35.03,-85.23
+16440,37412,chattanooga,East Ridge,,hamilton,35.0,-85.23
+16441,37414,chattanooga,,"Chatt, Chatta",hamilton,35.06,-85.25
+16442,37415,chattanooga,Red Bank,,hamilton,35.12,-85.28
+16443,37416,chattanooga,,,hamilton,35.1,-85.18
+16444,37419,chattanooga,,,hamilton,35.04,-85.4
+16445,37421,chattanooga,,,hamilton,35.03,-85.15
+16446,37422,chattanooga,,,hamilton,35.06,-85.25
+16447,37424,chattanooga,,"Chatt, Chatta, Chickamauga",hamilton,35.06,-85.25
+16448,37450,chattanooga,,,hamilton,35.06,-85.25
+16449,37501,memphis,,I R S,shelby,35.1,-90.0
+16450,37544,memphis,,I R S,shelby,35.15,-90.05
+16451,37601,johnson_city,,Jc,washington,36.33,-82.36
+16452,37602,johnson_city,,Jc,washington,36.33,-82.36
+16453,37604,johnson_city,,Jc,washington,36.3,-82.38
+16454,37605,johnson_city,,Jc,washington,36.33,-82.36
+16455,37614,johnson_city,,"East Tn State Univ, Etsu, Jc",washington,36.3,-82.37
+16456,37615,johnson_city,Gray,Jc,washington,36.4,-82.46
+16457,37616,afton,,,greene,36.23,-82.75
+16458,37617,blountville,,,sullivan,36.53,-82.32
+16459,37618,bluff_city,,,sullivan,36.46,-82.27
+16460,37620,bristol,,,sullivan,36.56,-82.19
+16461,37621,bristol,,,sullivan,36.56,-82.19
+16462,37625,bristol,,,sullivan,36.56,-82.19
+16463,37640,butler,,,johnson,36.31,-82.0
+16464,37641,chuckey,,Chucky,greene,36.24,-82.71
+16465,37642,church_hill,,,hawkins,36.52,-82.71
+16466,37643,elizabethton,,,carter,36.33,-82.23
+16467,37644,elizabethton,,,carter,36.33,-82.23
+16468,37645,mount_carmel,"Church Hill, Mt Carmel",,hawkins,36.56,-82.65
+16469,37650,erwin,,,unicoi,36.14,-82.41
+16470,37656,fall_branch,,,washington,36.41,-82.62
+16471,37657,flag_pond,,,unicoi,36.01,-82.56
+16472,37658,hampton,,,carter,36.28,-82.17
+16473,37659,jonesborough,,Jonesboro,washington,36.29,-82.47
+16474,37660,kingsport,Bloomingdale,,sullivan,36.52,-82.55
+16475,37662,kingsport,,,sullivan,36.52,-82.55
+16476,37663,kingsport,"Colonial Heights, Colonial Hgts",,sullivan,36.46,-82.49
+16477,37664,kingsport,,,sullivan,36.52,-82.5
+16478,37665,kingsport,,,sullivan,36.58,-82.57
+16479,37669,kingsport,,Kingsport Book,sullivan,36.52,-82.55
+16480,37680,laurel_bloomery,Laurel Blmry,,johnson,36.58,-81.73
+16481,37681,limestone,,,washington,36.22,-82.63
+16482,37682,milligan_college,Milligan Coll,Milligan,carter,36.3,-82.29
+16483,37683,mountain_city,,,johnson,36.47,-81.8
+16484,37684,mountain_home,Mtn Home,,washington,36.3,-82.36
+16485,37686,piney_flats,,,sullivan,36.44,-82.34
+16486,37687,roan_mountain,,,carter,36.18,-82.07
+16487,37688,shady_valley,,,johnson,36.51,-81.92
+16488,37690,telford,,,washington,36.24,-82.54
+16489,37691,trade,,,johnson,36.34,-81.74
+16490,37692,unicoi,,,unicoi,36.19,-82.35
+16491,37694,watauga,,,carter,36.36,-82.29
+16492,37699,piney_flats,,Home Shopping Network,sullivan,36.44,-82.34
+16493,37701,alcoa,,,blount,35.79,-83.97
+16494,37705,andersonville,,,anderson,36.2,-84.04
+16495,37707,arthur,,Harrogate,claiborne,36.54,-83.67
+16496,37708,bean_station,,Tate Springs,grainger,36.34,-83.28
+16497,37709,blaine,,,grainger,36.14,-83.69
+16498,37710,briceville,Devonia,,anderson,36.16,-84.3
+16499,37711,bulls_gap,,,hawkins,36.26,-83.07
+16500,37713,bybee,,,cocke,36.04,-83.18
+16501,37714,caryville,,,campbell,36.26,-84.3
+16502,37715,clairfield,,,claiborne,36.54,-83.95
+16503,37716,clinton,,,anderson,36.09,-84.13
+16504,37717,clinton,,,anderson,36.09,-84.13
+16505,37719,coalfield,,,morgan,36.02,-84.43
+16506,37721,corryton,,,knox,36.12,-83.8
+16507,37722,cosby,,,cocke,35.81,-83.25
+16508,37723,crab_orchard,,,cumberland,35.9,-84.88
+16509,37724,cumberland_gap,"Cumb Gap, Cumberland Gp",,claiborne,36.55,-83.71
+16510,37725,dandridge,,,jefferson,36.02,-83.41
+16511,37726,deer_lodge,,,morgan,36.21,-84.83
+16512,37727,del_rio,,,cocke,35.91,-83.02
+16513,37729,duff,La Follette,,campbell,36.52,-84.03
+16514,37730,eagan,,,claiborne,36.55,-83.98
+16515,37731,eidson,,,hawkins,36.5,-83.08
+16516,37732,elgin,,,scott,36.33,-84.6
+16517,37733,rugby,Elgin,,morgan,36.35,-84.7
+16518,37737,friendsville,,,blount,35.75,-84.13
+16519,37738,gatlinburg,,,sevier,35.72,-83.49
+16520,37742,greenback,,,loudon,35.65,-84.17
+16521,37743,greeneville,Tusculum Coll,Baileyton,greene,36.07,-82.86
+16522,37744,greeneville,,,greene,36.16,-82.81
+16523,37745,greeneville,Tusculum,Baileyton,greene,36.16,-82.81
+16524,37748,harriman,,"Emory Gap, Midtown",roane,35.93,-84.56
+16525,37752,harrogate,,,claiborne,36.56,-83.54
+16526,37753,hartford,,,cocke,35.81,-83.14
+16527,37754,heiskell,,,anderson,36.12,-84.04
+16528,37755,helenwood,,New River,scott,36.43,-84.56
+16529,37756,huntsville,,Norma,scott,36.41,-84.48
+16530,37757,jacksboro,,,campbell,36.33,-84.19
+16531,37760,jefferson_city,Jefferson Cty,Jeff City,jefferson,36.11,-83.48
+16532,37762,jellico,,,campbell,36.57,-84.12
+16533,37763,kingston,,,roane,35.87,-84.51
+16534,37764,kodak,,,sevier,35.97,-83.62
+16535,37765,kyles_ford,,,hancock,36.57,-83.06
+16536,37766,la_follette,Morley,Lafollette,campbell,36.37,-84.12
+16537,37769,lake_city,,,anderson,36.22,-84.15
+16538,37770,lancing,,,morgan,36.15,-84.69
+16539,37771,lenoir_city,,,loudon,35.8,-84.27
+16540,37772,lenoir_city,,,loudon,35.79,-84.22
+16541,37773,lone_mountain,,,claiborne,36.38,-83.58
+16542,37774,loudon,,,loudon,35.73,-84.35
+16543,37777,louisville,,Mcghee Tyson Ang Base,blount,35.82,-84.04
+16544,37778,lowland,,Morristown,hamblen,36.15,-83.2
+16545,37779,luttrell,,,union,36.2,-83.74
+16546,37801,maryville,,,blount,35.66,-84.09
+16547,37802,maryville,,,blount,35.74,-83.97
+16548,37803,maryville,,,blount,35.74,-83.97
+16549,37804,maryville,,,blount,35.79,-83.89
+16550,37806,mascot,,,knox,36.08,-83.73
+16551,37807,maynardville,,,union,36.24,-83.8
+16552,37809,midway,,,greene,36.16,-83.04
+16553,37810,mohawk,,,greene,36.18,-83.12
+16554,37811,mooresburg,,,hawkins,36.34,-83.22
+16555,37813,morristown,,,hamblen,36.21,-83.29
+16556,37814,morristown,,,hamblen,36.23,-83.34
+16557,37815,morristown,,,hamblen,36.21,-83.29
+16558,37816,morristown,,,hamblen,36.21,-83.29
+16559,37818,mosheim,,,greene,36.19,-82.95
+16560,37819,newcomb,,,campbell,36.54,-84.2
+16561,37820,new_market,,,jefferson,36.09,-83.55
+16562,37821,newport,,,cocke,35.96,-83.19
+16563,37822,newport,,,cocke,35.96,-83.19
+16564,37824,new_tazewell,,,claiborne,36.43,-83.6
+16565,37825,new_tazewell,,,claiborne,36.43,-83.6
+16566,37826,niota,,,mcminn,35.51,-84.54
+16567,37828,norris,,,anderson,36.21,-84.06
+16568,37829,oakdale,,,morgan,36.01,-84.64
+16569,37830,oak_ridge,,,anderson,35.96,-84.29
+16570,37831,oak_ridge,,,anderson,35.96,-84.29
+16571,37840,oliver_springs,Oliver Spgs,,roane,36.03,-84.32
+16572,37841,oneida,,,scott,36.5,-84.51
+16573,37843,parrottsville,,,cocke,36.0,-83.09
+16574,37845,petros,,,morgan,36.09,-84.44
+16575,37846,philadelphia,,,loudon,35.67,-84.4
+16576,37847,pioneer,,,scott,36.46,-84.29
+16577,37848,powder_springs,Powder Spgs,Washburn,grainger,36.24,-83.66
+16578,37849,powell,,,knox,36.03,-84.02
+16579,37851,pruden,,,claiborne,36.58,-83.91
+16580,37852,robbins,,Glen Mary,scott,36.32,-84.57
+16581,37853,rockford,,,blount,35.82,-83.93
+16582,37854,rockwood,Ozone,Westel,roane,35.87,-84.67
+16583,37857,rogersville,,,hawkins,36.4,-83.0
+16584,37860,russellville,,,hamblen,36.25,-83.19
+16585,37861,rutledge,,,grainger,36.27,-83.52
+16586,37862,sevierville,Pigeon Forge,,sevier,35.78,-83.61
+16587,37863,pigeon_forge,Sevierville,,sevier,35.79,-83.55
+16588,37864,sevierville,Pigeon Forge,,sevier,35.89,-83.57
+16589,37865,seymour,,,sevier,35.87,-83.77
+16590,37866,sharps_chapel,,,union,36.34,-83.8
+16591,37867,shawanee,,Harrogate,claiborne,36.57,-83.55
+16592,37868,pigeon_forge,Sevierville,,sevier,35.79,-83.55
+16593,37869,sneedville,,,hancock,36.53,-83.21
+16594,37870,speedwell,,,claiborne,36.47,-83.81
+16595,37871,strawberry_plains,Straw Plains,,jefferson,36.06,-83.68
+16596,37872,sunbright,,Burrville,morgan,36.24,-84.67
+16597,37873,surgoinsville,,,hawkins,36.47,-82.85
+16598,37874,sweetwater,,,monroe,35.6,-84.46
+16599,37876,sevierville,"Pigeon Forge, Pittman Center, Pittman Ctr",,sevier,35.89,-83.57
+16600,37877,talbott,,,hamblen,36.14,-83.4
+16601,37878,tallassee,,Happy Valley,blount,35.62,-83.89
+16602,37879,tazewell,,,claiborne,36.45,-83.57
+16603,37880,ten_mile,,,meigs,35.66,-84.66
+16604,37881,thorn_hill,Treadway,,grainger,36.35,-83.41
+16605,37882,townsend,,,blount,35.67,-83.75
+16606,37885,vonore,,,monroe,35.59,-84.23
+16607,37886,walland,,,blount,35.72,-83.81
+16608,37887,wartburg,,,morgan,36.1,-84.58
+16609,37888,washburn,,,grainger,36.31,-83.59
+16610,37890,white_pine,Baneberry,,jefferson,36.09,-83.29
+16611,37891,whitesburg,,,hamblen,36.29,-83.13
+16612,37892,winfield,,,scott,36.56,-84.45
+16613,37901,knoxville,,Knox,knox,35.97,-83.94
+16614,37902,knoxville,,,knox,35.96,-83.92
+16615,37909,knoxville,,,knox,35.95,-84.02
+16616,37912,knoxville,,,knox,36.01,-83.98
+16617,37914,knoxville,,,knox,35.98,-83.8
+16618,37915,knoxville,,,knox,35.97,-83.9
+16619,37916,knoxville,,,knox,35.95,-83.93
+16620,37917,knoxville,,,knox,36.0,-83.91
+16621,37918,knoxville,,,knox,36.06,-83.92
+16622,37919,knoxville,,,knox,35.91,-84.0
+16623,37920,knoxville,"Kimberlin Heights, Kimberlin Hgt",,knox,35.91,-83.87
+16624,37921,knoxville,Karns,,knox,35.97,-83.94
+16625,37922,knoxville,"Concord, Concord Farr, Concord Farragut",Farragut,knox,35.86,-84.1
+16626,37923,knoxville,,,knox,35.93,-84.08
+16627,37924,knoxville,,,knox,36.03,-83.8
+16628,37927,knoxville,,,knox,35.97,-83.94
+16629,37928,knoxville,,,knox,35.97,-83.94
+16630,37929,knoxville,,Plaza Tower,knox,35.97,-83.94
+16631,37930,knoxville,,,knox,35.97,-83.94
+16632,37931,knoxville,,,knox,35.98,-84.13
+16633,37932,knoxville,,,knox,35.92,-84.2
+16634,37933,knoxville,Farragut,Concord Farragut,knox,35.97,-83.94
+16635,37934,knoxville,"Concord, Farragut","Concord Farr, Concord Farragut, Knox, Knx, Kville",knox,35.87,-84.17
+16636,37938,knoxville,,,knox,36.12,-83.94
+16637,37939,knoxville,,,knox,35.97,-83.94
+16638,37940,knoxville,,,knox,35.97,-83.94
+16639,37950,knoxville,,,knox,35.97,-83.94
+16640,37990,knoxville,,The Mail Box,knox,35.86,-84.12
+16641,37995,knoxville,,1st Tennessee Bank,knox,35.97,-83.94
+16642,37996,knoxville,,University Of Tenn,knox,35.97,-83.94
+16643,37997,knoxville,,Suntrust Bank,knox,35.97,-83.94
+16644,37998,knoxville,,Johnson Bible College,knox,35.97,-83.94
+16645,38001,alamo,,,crockett,35.78,-89.11
+16646,38002,arlington,Lakeland,,shelby,35.28,-89.66
+16647,38004,atoka,,Crosstown,tipton,35.44,-89.77
+16648,38006,bells,,,crockett,35.71,-89.08
+16649,38007,bogota,,,dyer,36.16,-89.43
+16650,38008,bolivar,,,hardeman,35.26,-88.99
+16651,38010,braden,,,fayette,35.36,-89.57
+16652,38011,brighton,,,tipton,35.47,-89.73
+16653,38012,brownsville,,,haywood,35.59,-89.25
+16654,38014,brunswick,,,shelby,35.28,-89.72
+16655,38015,burlison,Gilt Edge,Randolph,tipton,35.55,-89.78
+16656,38016,cordova,,,shelby,35.18,-89.76
+16657,38017,collierville,"Fisherville, Piperton",,shelby,35.05,-89.67
+16658,38018,cordova,,,shelby,35.15,-89.75
+16659,38019,covington,Garland,,tipton,35.56,-89.64
+16660,38021,crockett_mills,Crockett Mls,,crockett,35.88,-89.16
+16661,38023,drummonds,,,tipton,35.46,-89.94
+16662,38024,dyersburg,,,dyer,36.03,-89.38
+16663,38025,dyersburg,,,dyer,36.03,-89.38
+16664,38027,collierville,,"Colliervl, Colliervle, Fisherville, Piperton",shelby,35.05,-89.67
+16665,38028,eads,,,fayette,35.2,-89.66
+16666,38029,ellendale,,,shelby,35.24,-89.82
+16667,38030,finley,,,dyer,35.98,-89.58
+16668,38034,friendship,,,crockett,35.91,-89.24
+16669,38036,gallaway,,,fayette,35.32,-89.63
+16670,38037,gates,,,lauderdale,35.83,-89.4
+16671,38039,grand_junction,Grand Jct,,hardeman,35.04,-89.18
+16672,38040,halls,,,lauderdale,35.88,-89.4
+16673,38041,henning,Fort Pillow,,lauderdale,35.67,-89.57
+16674,38042,hickory_valley,Hickory Vly,,hardeman,35.15,-89.12
+16675,38044,hornsby,,,hardeman,35.22,-88.83
+16676,38045,laconia,,,fayette,35.31,-89.23
+16677,38046,la_grange,,,fayette,35.07,-89.25
+16678,38047,lenox,,,dyer,36.09,-89.5
+16679,38048,macon,,,fayette,35.17,-89.54
+16680,38049,mason,,,tipton,35.41,-89.53
+16681,38050,maury_city,,,crockett,35.83,-89.23
+16682,38052,middleton,,,hardeman,35.06,-88.89
+16683,38053,millington,,"Barretville, Cloverdale, Cuba, Dixonville, East Acres, Kerrville, Locke, Lucy, Quito, Rosemark, Wilkinsville, Woodstock",shelby,35.33,-89.88
+16684,38054,millington,,Naval Hospital,shelby,35.34,-89.87
+16685,38055,millington,,Naval Personel Commnd,shelby,35.33,-89.88
+16686,38057,moscow,Williston,,fayette,35.06,-89.39
+16687,38058,munford,,,tipton,35.44,-89.8
+16688,38059,newbern,,,dyer,36.11,-89.26
+16689,38060,oakland,Somerville,,fayette,35.22,-89.51
+16690,38061,pocahontas,,Essary Springs,hardeman,35.05,-88.81
+16691,38063,ripley,,,lauderdale,35.74,-89.53
+16692,38066,rossville,Williston,,fayette,35.04,-89.54
+16693,38067,saulsbury,,,hardeman,35.04,-89.08
+16694,38068,somerville,Mason,,fayette,35.23,-89.35
+16695,38069,stanton,,,haywood,35.46,-89.4
+16696,38070,tigrett,,,dyer,35.94,-89.24
+16697,38071,tipton,,,tipton,35.46,-89.97
+16698,38075,whiteville,Somerville,,hardeman,35.32,-89.14
+16699,38076,williston,"Moscow, Oakland, Rossville",,fayette,35.14,-89.44
+16700,38077,wynnburg,,,lake,36.33,-89.47
+16701,38079,tiptonville,,,lake,36.37,-89.47
+16702,38080,ridgely,Miston,,lake,36.26,-89.48
+16703,38083,millington,,Millingtn,shelby,35.33,-89.88
+16704,38088,cordova,,,shelby,35.15,-89.75
+16705,38101,memphis,,,shelby,35.1,-90.0
+16706,38103,memphis,,,shelby,35.15,-90.05
+16707,38104,memphis,,"Mem, Mphs",shelby,35.13,-90.0
+16708,38105,memphis,,"Mem, Mphs",shelby,35.15,-90.03
+16709,38106,memphis,,"Mem, Mphs",shelby,35.1,-90.09
+16710,38107,memphis,,"Mem, Mphs",shelby,35.17,-90.02
+16711,38108,memphis,,"Mem, Mphs",shelby,35.18,-89.97
+16712,38109,memphis,,"Mem, Mphs",shelby,35.04,-90.16
+16713,38110,memphis,,"Mem, I R S, Mphs",shelby,35.05,-89.94
+16714,38111,memphis,,"Mem, Mphs",shelby,35.11,-89.94
+16715,38112,memphis,,"Mem, Mphs",shelby,35.15,-89.98
+16716,38113,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16717,38114,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16718,38115,memphis,Hickory Hill,"Mem, Mphs",shelby,35.05,-89.86
+16719,38116,memphis,,"Mem, Mphs",shelby,35.03,-90.01
+16720,38117,memphis,,"Mem, Mphs",shelby,35.12,-89.91
+16721,38118,memphis,,"Mem, Mphs",shelby,35.03,-89.93
+16722,38119,memphis,,"Mem, Mphs",shelby,35.08,-89.85
+16723,38120,memphis,,"Mem, Mphs",shelby,35.12,-89.85
+16724,38122,memphis,,"Mem, Mphs",shelby,35.16,-89.92
+16725,38124,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16726,38125,memphis,Hickory Hill,"Mem, Mphs",shelby,35.03,-89.79
+16727,38126,memphis,,"Mem, Mphs",shelby,35.13,-90.04
+16728,38127,memphis,,"Mem, Mphs",shelby,35.24,-90.02
+16729,38128,memphis,,"Mem, Mphs",shelby,35.22,-89.93
+16730,38130,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16731,38131,memphis,,,shelby,35.07,-89.99
+16732,38132,memphis,,"Mem, Mphs",shelby,35.07,-89.99
+16733,38133,memphis,Bartlett,"Mem, Mphs",shelby,35.21,-89.79
+16734,38134,memphis,Bartlett,"Mem, Mphs",shelby,35.17,-89.86
+16735,38135,memphis,Bartlett,"Mem, Mphs",shelby,35.24,-89.85
+16736,38136,memphis,,"Mem, Memphis Networks Dist Ctr, Mphs",shelby,35.1,-90.0
+16737,38137,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16738,38138,germantown,Memphis,"Mem, Mphs",shelby,35.08,-89.79
+16739,38139,germantown,Memphis,"Mem, Mphs",shelby,35.08,-89.76
+16740,38141,memphis,,"Mem, Mphs",shelby,35.02,-89.86
+16741,38142,memphis,,"Mphs, Credit Card Service Center, Mem",shelby,35.14,-90.04
+16742,38145,memphis,,"Mem, Memphis Light Gas And Water, Mphs",shelby,35.1,-90.0
+16743,38147,memphis,,"Mem, Mphs, Regions Bank",shelby,35.1,-90.0
+16744,38148,memphis,,"First Tenn National Bank, Mem, Mphs",shelby,35.1,-90.0
+16745,38150,memphis,,"Mem, Mphs, Suntrust Bank",shelby,35.1,-90.0
+16746,38151,memphis,,"Mem, Mphs, Schering Plough Inc",shelby,35.1,-90.0
+16747,38152,memphis,,"Mem, Mphs, University Of Memphis",shelby,35.12,-89.93
+16748,38157,memphis,,,shelby,35.1,-90.0
+16749,38159,memphis,,Regions Bank,shelby,35.1,-90.0
+16750,38161,memphis,,Us Postal Inspect Srvc,shelby,35.1,-90.0
+16751,38163,memphis,,"Univ Of Tn, University Of Tn",shelby,35.1,-90.0
+16752,38165,memphis,,Memphis Rcsc,shelby,35.14,-90.04
+16753,38166,memphis,,Southeast Area,shelby,35.1,-90.0
+16754,38167,memphis,,,shelby,35.1,-90.0
+16755,38168,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16756,38173,memphis,,Mem,shelby,35.1,-90.0
+16757,38174,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16758,38175,memphis,,,shelby,35.1,-90.0
+16759,38177,memphis,,,shelby,35.1,-90.0
+16760,38181,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16761,38182,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16762,38183,germantown,,Memphis,shelby,35.08,-89.79
+16763,38184,memphis,Bartlett,"Mem, Mphs",shelby,35.1,-90.0
+16764,38186,memphis,,,shelby,35.1,-90.0
+16765,38187,memphis,,"Mem, Mphs",shelby,35.1,-90.0
+16766,38188,memphis,,Natl Customer Support Ctr,shelby,35.1,-90.0
+16767,38190,memphis,,,shelby,35.1,-90.0
+16768,38193,memphis,,Sharp Electronic Manufac,shelby,35.1,-90.0
+16769,38194,memphis,,Federal Express,shelby,35.1,-90.0
+16770,38197,memphis,,International Paper Co,shelby,35.1,-90.0
+16771,38201,mc_kenzie,,,carroll,36.13,-88.51
+16772,38220,atwood,,,carroll,35.97,-88.67
+16773,38221,big_sandy,,,benton,36.23,-88.08
+16774,38222,buchanan,,,henry,36.42,-88.17
+16775,38223,como,,,henry,36.28,-88.5
+16776,38224,cottage_grove,,,henry,36.37,-88.47
+16777,38225,dresden,,,weakley,36.27,-88.69
+16778,38226,dukedom,,,weakley,36.47,-88.66
+16779,38227,elbridge,,,obion,36.26,-89.32
+16780,38229,gleason,,,weakley,36.21,-88.61
+16781,38230,greenfield,,,weakley,36.15,-88.8
+16782,38231,henry,,,henry,36.2,-88.41
+16783,38232,hornbeak,,,obion,36.33,-89.29
+16784,38233,kenton,,Masonhall,gibson,36.19,-89.01
+16785,38235,mc_lemoresville,Mc Lemoresvle,Mclemoresville,carroll,35.99,-88.56
+16786,38236,mansfield,,,henry,36.18,-88.28
+16787,38237,martin,,,weakley,36.34,-88.85
+16788,38238,martin,,University Of Tn,weakley,36.34,-88.85
+16789,38240,obion,,,obion,36.26,-89.19
+16790,38241,palmersville,,,weakley,36.41,-88.58
+16791,38242,paris,,,henry,36.3,-88.3
+16792,38251,puryear,,,henry,36.44,-88.33
+16793,38253,rives,,,obion,36.35,-89.04
+16794,38254,samburg,,,obion,36.38,-89.35
+16795,38255,sharon,,,weakley,36.23,-88.82
+16796,38256,springville,,,henry,36.25,-88.15
+16797,38257,south_fulton,,,obion,36.49,-88.88
+16798,38258,trezevant,,,carroll,36.01,-88.62
+16799,38259,trimble,,,dyer,36.2,-89.18
+16800,38260,troy,,,obion,36.33,-89.16
+16801,38261,union_city,,,obion,36.42,-89.05
+16802,38271,woodland_mills,Woodland Mls,,obion,36.47,-89.11
+16803,38281,union_city,,"Union Cty, Union Cy",obion,36.42,-89.05
+16804,38301,jackson,,,madison,35.63,-88.82
+16805,38302,jackson,,,madison,35.63,-88.82
+16806,38303,jackson,,,madison,35.63,-88.82
+16807,38305,jackson,,,madison,35.7,-88.77
+16808,38308,jackson,,,madison,35.63,-88.82
+16809,38310,adamsville,,,mcnairy,35.23,-88.38
+16810,38311,bath_springs,,,decatur,35.44,-88.1
+16811,38313,beech_bluff,,,madison,35.6,-88.63
+16812,38314,jackson,,Bemis,madison,35.63,-88.82
+16813,38315,bethel_springs,Bethel Spgs,,mcnairy,35.23,-88.6
+16814,38316,bradford,,,gibson,36.07,-88.81
+16815,38317,bruceton,,,carroll,36.03,-88.24
+16816,38318,buena_vista,,,carroll,35.98,-88.28
+16817,38320,camden,,,benton,36.06,-88.1
+16818,38321,cedar_grove,,,carroll,35.81,-88.6
+16819,38324,clarksburg,,,carroll,35.87,-88.38
+16820,38326,counce,,,hardin,35.03,-88.29
+16821,38327,crump,,,hardin,35.23,-88.32
+16822,38328,darden,,,henderson,35.63,-88.23
+16823,38329,decaturville,,,decatur,35.58,-88.11
+16824,38330,dyer,,,gibson,36.07,-88.99
+16825,38331,eaton,,,gibson,35.96,-89.13
+16826,38332,enville,,,chester,35.38,-88.42
+16827,38333,eva,,,benton,36.11,-87.99
+16828,38334,finger,,,mcnairy,35.35,-88.61
+16829,38336,fruitvale,,,crockett,35.72,-89.06
+16830,38337,gadsden,,,crockett,35.79,-89.01
+16831,38338,gibson,,,gibson,35.87,-88.84
+16832,38339,guys,,,mcnairy,35.05,-88.52
+16833,38340,henderson,,,chester,35.44,-88.64
+16834,38341,holladay,,,benton,35.89,-88.07
+16835,38342,hollow_rock,,,carroll,36.03,-88.27
+16836,38343,humboldt,Three Way,,gibson,35.82,-88.9
+16837,38344,huntingdon,,Leach,carroll,36.0,-88.41
+16838,38345,huron,,,henderson,35.58,-88.5
+16839,38346,idlewild,,,gibson,35.98,-88.77
+16840,38347,jacks_creek,,,chester,35.48,-88.5
+16841,38348,lavinia,,,carroll,35.86,-88.64
+16842,38351,lexington,,,henderson,35.65,-88.39
+16843,38352,luray,,,chester,35.53,-88.53
+16844,38355,medina,,,gibson,35.8,-88.77
+16845,38356,medon,,,madison,35.45,-88.86
+16846,38357,michie,,,mcnairy,35.06,-88.42
+16847,38358,milan,,Milan Army Ammunition Plant,gibson,35.91,-88.75
+16848,38359,milledgeville,,,mcnairy,35.37,-88.36
+16849,38361,morris_chapel,,,hardin,35.31,-88.35
+16850,38362,oakfield,,,madison,35.73,-88.78
+16851,38363,parsons,,,decatur,35.65,-88.12
+16852,38365,pickwick_dam,,,hardin,35.05,-88.23
+16853,38366,pinson,,,madison,35.47,-88.73
+16854,38367,ramer,Eastview,,mcnairy,35.07,-88.61
+16855,38368,reagan,,,henderson,35.51,-88.35
+16856,38369,rutherford,,,gibson,36.12,-88.99
+16857,38370,saltillo,,,hardin,35.37,-88.21
+16858,38371,sardis,,,henderson,35.44,-88.29
+16859,38372,savannah,,,hardin,35.22,-88.23
+16860,38374,scotts_hill,,,henderson,35.51,-88.23
+16861,38375,selmer,,Lawton,mcnairy,35.17,-88.59
+16862,38376,shiloh,,,hardin,35.11,-88.36
+16863,38377,silerton,,,hardeman,35.34,-88.8
+16864,38378,spring_creek,,,madison,35.76,-88.68
+16865,38379,stantonville,,,mcnairy,35.15,-88.42
+16866,38380,sugar_tree,,,decatur,35.79,-88.02
+16867,38381,toone,,,hardeman,35.35,-88.95
+16868,38382,trenton,,,gibson,35.97,-88.93
+16869,38387,westport,,,carroll,35.88,-88.29
+16870,38388,wildersville,"Parker Crossroads, Parker Xroads",,henderson,35.78,-88.36
+16871,38389,yorkville,,,gibson,36.09,-89.11
+16872,38390,yuma,,,carroll,35.86,-88.37
+16873,38391,denmark,,,madison,35.54,-88.97
+16874,38392,mercer,,,madison,35.48,-89.03
+16875,38393,chewalla,,,mcnairy,35.02,-88.67
+16876,38401,columbia,,,maury,35.62,-87.04
+16877,38402,columbia,,,maury,35.62,-87.04
+16878,38425,clifton,,,wayne,35.38,-87.99
+16879,38449,ardmore,,Dellrose,giles,35.04,-86.82
+16880,38450,collinwood,,,wayne,35.17,-87.74
+16881,38451,culleoka,,,maury,35.46,-86.99
+16882,38452,cypress_inn,,,wayne,35.05,-87.79
+16883,38453,dellrose,,Ardmore,lincoln,35.11,-86.8
+16884,38454,duck_river,,,hickman,35.71,-87.35
+16885,38455,elkton,,,giles,35.04,-86.89
+16886,38456,ethridge,,,lawrence,35.32,-87.3
+16887,38457,five_points,,,lawrence,35.03,-87.28
+16888,38459,frankewing,,,lincoln,35.19,-86.8
+16889,38460,goodspring,,,giles,35.12,-87.14
+16890,38461,hampshire,,,maury,35.58,-87.35
+16891,38462,hohenwald,Kimmins,,lewis,35.55,-87.55
+16892,38463,iron_city,,,wayne,35.02,-87.58
+16893,38464,lawrenceburg,,,lawrence,35.24,-87.33
+16894,38468,leoma,,,lawrence,35.12,-87.3
+16895,38469,loretto,,,lawrence,35.08,-87.43
+16896,38471,lutts,,,wayne,35.11,-87.9
+16897,38472,lynnville,,,giles,35.37,-87.0
+16898,38473,minor_hill,,,giles,35.03,-87.17
+16899,38474,mount_pleasant,Mt Pleasant,,maury,35.55,-87.19
+16900,38475,olivehill,,,hardin,35.26,-88.04
+16901,38476,primm_springs,,,williamson,35.8,-87.25
+16902,38477,prospect,,,giles,35.05,-87.0
+16903,38478,pulaski,,,giles,35.19,-87.03
+16904,38481,saint_joseph,,St Joseph,lawrence,35.03,-87.49
+16905,38482,santa_fe,,,maury,35.75,-87.16
+16906,38483,summertown,,,lawrence,35.43,-87.33
+16907,38485,waynesboro,,,wayne,35.32,-87.75
+16908,38486,westpoint,,,lawrence,35.15,-87.53
+16909,38487,williamsport,,,maury,35.72,-87.23
+16910,38488,taft,,,lincoln,35.05,-86.68
+16911,38501,cookeville,Algood,,putnam,36.15,-85.5
+16912,38502,cookeville,,,putnam,36.15,-85.5
+16913,38503,cookeville,,,putnam,36.15,-85.5
+16914,38504,allardt,,,fentress,36.38,-84.88
+16915,38505,cookeville,,Tennessee Tech Univ,putnam,36.18,-85.51
+16916,38506,cookeville,,"Cookevl, Cookevle",putnam,36.19,-85.43
+16917,38541,allons,,,overton,36.51,-85.32
+16918,38542,allred,,,overton,36.32,-85.2
+16919,38543,alpine,,,overton,36.36,-85.14
+16920,38544,baxter,,,putnam,36.15,-85.63
+16921,38545,bloomington_springs,Blmngton Spgs,,jackson,36.22,-85.66
+16922,38547,brush_creek,,,smith,36.11,-86.01
+16923,38548,buffalo_valley,Buffalo Vly,,putnam,36.18,-85.75
+16924,38549,byrdstown,,,pickett,36.57,-85.13
+16925,38550,campaign,,,warren,35.76,-85.64
+16926,38551,celina,,,clay,36.54,-85.5
+16927,38552,chestnut_mound,Chestnut Mnd,,smith,36.22,-85.81
+16928,38553,clarkrange,,,fentress,36.21,-84.96
+16929,38554,crawford,,,overton,36.24,-85.18
+16930,38555,crossville,"Fairfield Glade, Fairfld Glde",Fairfield,cumberland,35.95,-85.03
+16931,38556,jamestown,,,fentress,36.43,-84.93
+16932,38557,crossville,,,cumberland,35.95,-85.03
+16933,38558,crossville,,"Crossvl, Crossvle, Fairfield, Fairfield Glade, Fairfld Glade",cumberland,36.01,-84.87
+16934,38559,doyle,,,white,35.85,-85.51
+16935,38560,elmwood,,,smith,36.24,-85.88
+16936,38562,gainesboro,,,jackson,36.36,-85.65
+16937,38563,gordonsville,,New Middleton,smith,36.18,-85.93
+16938,38564,granville,,,jackson,36.27,-85.74
+16939,38565,grimsley,,,fentress,36.25,-85.03
+16940,38567,hickman,,,smith,36.1,-85.9
+16941,38568,hilham,,,overton,36.44,-85.47
+16942,38569,lancaster,,,smith,36.09,-85.85
+16943,38570,livingston,,,overton,36.38,-85.32
+16944,38571,crossville,,,cumberland,36.05,-85.01
+16945,38572,crossville,,,cumberland,35.85,-85.13
+16946,38573,monroe,,,overton,36.45,-85.2
+16947,38574,monterey,,,putnam,36.13,-85.24
+16948,38575,moss,,,clay,36.59,-85.68
+16949,38577,pall_mall,,,pickett,36.56,-84.95
+16950,38578,pleasant_hill,,,cumberland,35.98,-85.2
+16951,38579,quebeck,,,white,35.84,-85.55
+16952,38580,rickman,,,overton,36.29,-85.3
+16953,38581,rock_island,Bone Cave,,warren,35.71,-85.6
+16954,38582,silver_point,,,putnam,36.09,-85.76
+16955,38583,sparta,"Ravenscroft, Riverwatch",,white,35.93,-85.47
+16956,38585,spencer,,,van_buren,35.74,-85.45
+16957,38587,walling,,,white,35.85,-85.62
+16958,38588,whitleyville,,,jackson,36.48,-85.7
+16959,38589,wilder,,,overton,36.26,-85.08
